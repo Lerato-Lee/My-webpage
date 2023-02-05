@@ -24,7 +24,7 @@ local_css("style/style.css")
 # ---- LOAD ASSETS ----
 lottie_coding = load_lottieurl("https://assets8.lottiefiles.com/private_files/lf30_wqypnpu5.json")
 img_kindpng_1280357 = Image.open("images/kindpng_1280357.png")
-img_Lee_in_tech = Image.open("images/lee_in_tech.png")
+img_Lee_in_tech = Image.open("images/Lee_in_tech.png")
 
 # ---- HEADER SECTION ----
 with st.container():
